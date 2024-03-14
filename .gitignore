@@ -13,6 +13,7 @@ coverage
 .next/
 out/
 build
+dist
 
 # misc
 .DS_Store
@@ -42,3 +43,5 @@ artifacts
 *.key
 
 starknet-artifacts
+
+.env.glihm
